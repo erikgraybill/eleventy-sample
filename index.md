@@ -1,2 +1,2 @@
 # Welcome
-- [Read me file](/README)
+- [Read me file](README)
